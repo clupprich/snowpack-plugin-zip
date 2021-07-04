@@ -1,0 +1,14 @@
+{
+  "name": "snowpack-plugin-zip",
+  "version": "1.0.0",
+  "description": "A plugin for snowpack that creates a ZIP file of the build directory.",
+  "main": "snowpack-plugin-zip.js",
+  "author": {
+    "name": "Christoph Lupprich",
+    "email": "christoph@luppri.ch"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.5.5"
+  }
+}
