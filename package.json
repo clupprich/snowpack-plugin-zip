@@ -7,7 +7,13 @@
     "name": "Christoph Lupprich",
     "email": "christoph@luppri.ch"
   },
+  "keywords": ["snowpack"],
   "license": "MIT",
+  "homepage": "https://github.com/clupprich/snowpack-plugin-zip" ,
+  "bugs": {
+    "url" : "https://github.com/clupprich/snowpack-plugin-zip/issues"
+  },
+  "repository": "github:clupprich/snowpack-plugin-zip",
   "dependencies": {
     "adm-zip": "^0.5.5"
   }
